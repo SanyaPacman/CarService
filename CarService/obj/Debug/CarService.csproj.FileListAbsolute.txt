@@ -1,0 +1,14 @@
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\bin\Debug\CarService.exe.config
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\bin\Debug\CarService.exe
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\bin\Debug\CarService.pdb
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\CarService.csprojResolveAssemblyReference.cache
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\MainWindow.g.cs
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\App.g.cs
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\CarService_MarkupCompile.cache
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\CarService_MarkupCompile.lref
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\MainWindow.baml
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\CarService.g.resources
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\CarService.Properties.Resources.resources
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\CarService.csproj.GenerateResource.Cache
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\CarService.exe
+c:\users\саруман\documents\visual studio 2015\Projects\CarService\obj\Debug\CarService.pdb
